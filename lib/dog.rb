@@ -13,3 +13,4 @@ end
 
 fido = Dog.new
 puts fido.name
+fido.name = "Fido"
